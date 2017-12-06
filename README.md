@@ -1,13 +1,13 @@
-## social graph and interactions
+# social graph and interactions
 
-# Introduction
-
-
+## Introduction
 
 
 
 
-# The Network
+
+
+## The Network
 
 
 whenever you start something new
