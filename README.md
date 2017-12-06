@@ -28,3 +28,4 @@ The list consists of 10222 words with their average happiness score obtained usi
 
 Now that we have the sentiment grade over the genre, you can have an idea about the feeling that a typeof movie will bring to you
 
+![test](https://user-images.githubusercontent.com/26303508/33664760-06bc63d0-da95-11e7-999c-0eb8a8cd80c5.png)
