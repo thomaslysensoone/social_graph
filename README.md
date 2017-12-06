@@ -23,9 +23,9 @@ We see with the plot below that they is a positive correlation between ratings a
 ![degree_vs_ratings](https://user-images.githubusercontent.com/19948466/33676305-b9d2d25e-dab5-11e7-9947-271b74a9a861.jpeg)
 
 Can we recommand some movies to anyone who has a favorite actor ? 
-From a gien actor, we look into our Network and we return the 10 movies containing this actor with the highest degree.
+From a given actor, we look into our Network and we return the 10 movies containing this actor with the highest degree.
 
-Here is an example with Tom Hanks, owe get 10 recommandations : 
+Here is an example with Tom Hanks, we get 10 recommandations : 
 
  - "Catch Me If You Can"
  - "Cars"
