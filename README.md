@@ -28,7 +28,7 @@ The list consists of 10222 words with their average happiness score obtained usi
 
 Now that we have the sentiment grade over the genre, you can have an idea about the feeling that a type of movie will bring to you
 
-![test](https://user-images.githubusercontent.com/26303508/33664760-06bc63d0-da95-11e7-999c-0eb8a8cd80c5.png)
+![test](https://user-images.githubusercontent.com/26303508/33667114-3e25708a-da9c-11e7-958a-f6be9b2d78f6.png)
 
 This picture just help find the genre which correspond to you and also to change your mind about multiple genre that was too sad of too feel good movie.
 
