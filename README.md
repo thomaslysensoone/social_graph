@@ -82,16 +82,16 @@ Moreover, we can also find some recommendations based on movies which are not th
 
 Runningour programm, we get those 10 recommendations
 - 'A Civil Action', 0.13769887550011084
--"The Devil's Advocate", 0.11572449393749507
--'The Conspirator', 0.11313793020077545
--'Misconduct', 0.10843221926403357
--'I Am Sam', 0.10358217097305766
--'Obsluhoval jsem anglickle', 0.095934093109751428
--'Revolution', 0.095647005209171354
--'Hellboy', 0.095360032677248574
--'Thinner', 0.093940296393182243
--'Sweet November', 0.093184298215508443
--'Gandhi, My Father', 0.088553122762747738
+- "The Devil's Advocate", 0.11572449393749507
+- 'The Conspirator', 0.11313793020077545
+- 'Misconduct', 0.10843221926403357
+- 'I Am Sam', 0.10358217097305766
+- 'Obsluhoval jsem anglickle', 0.095934093109751428
+- 'Revolution', 0.095647005209171354
+- 'Hellboy', 0.095360032677248574
+- 'Thinner', 0.093940296393182243
+- 'Sweet November', 0.093184298215508443
+- 'Gandhi, My Father', 0.088553122762747738
 
 
 We can see that sometimes the recommendations are far from what we expected but it is based on the word that were used in the description so a single word can be really determinant in some case. 
