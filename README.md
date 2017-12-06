@@ -43,6 +43,9 @@ Just below, we generate several word clouds corresonding respectively to 'Romanc
 
 ![wordcloud1](https://user-images.githubusercontent.com/26303508/33665263-a172d282-da96-11e7-9b7c-22fe258792f1.png)
 
+![wordcloud2](https://user-images.githubusercontent.com/26303508/33665284-b2e33368-da96-11e7-9b72-4689b33a24b1.png)
+
+
 
 
 
