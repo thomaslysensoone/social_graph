@@ -8,7 +8,34 @@ Description of the dataset et blabla
 
 
 ## The Network
-Make recommendations in that part based on the degree of the nodes
+
+In this part, we will create a Network to link movies if they have actors in common. Then, we will analyze the network and also run the Louvain Algorithm to see if we can isolate communities.
+
+The network that we create is given below. It contains a lot of movies linked together and some outliers ("small" movies with unexperienced actors who only played in 1 movie).
+
+It has 4800 nodes and 253 502 edges.
+
+What characterize a high degree movie ? 
+We see with the plot below that they is a positive correlation between ratings and the degree. Basically, a movie with a high degree stars famous and experienced actors (larger budget), it will be more likely to receive good ratings from the public. 
+
+
+
+Can we recommand some movies to anyone who has a favorite actor ? 
+From a gien actor, we look into our Network and we return the 10 movies containing this actor with the highest degree.
+
+Here is an example with Tom Hanks, owe get 10 recommandations : 
+
+ - "Catch Me If You Can"
+ - "Cars"
+ - "Saving Private Ryan"
+ - "Toy Story 3"
+ - "The Green Mile"
+ - "The Things That You Do!"
+ - "Cloud Atlas"
+ - "Philadelphia"
+ - "Road To Perdition"
+ - "Apollo 13"
+
 
 
 ## Sentiment Analysis
