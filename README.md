@@ -18,7 +18,7 @@ It has 4800 nodes and 253 502 edges.
 What characterize a high degree movie ? 
 We see with the plot below that they is a positive correlation between ratings and the degree. Basically, a movie with a high degree stars famous and experienced actors (larger budget), it will be more likely to receive good ratings from the public. 
 
-
+![degree_vs_ratings](https://user-images.githubusercontent.com/19948466/33676305-b9d2d25e-dab5-11e7-9947-271b74a9a861.jpeg)
 
 Can we recommand some movies to anyone who has a favorite actor ? 
 From a gien actor, we look into our Network and we return the 10 movies containing this actor with the highest degree.
@@ -58,7 +58,6 @@ Now that we have the sentiment grade over the genre, you can have an idea about 
 ![test](https://user-images.githubusercontent.com/26303508/33667114-3e25708a-da9c-11e7-958a-f6be9b2d78f6.png)
 
 This picture just help find the genre which correspond to you and also to change your mind about multiple genre that was too sad of too feel good movie.
-
 
 ### Word Cloud
 
