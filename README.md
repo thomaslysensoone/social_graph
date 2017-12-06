@@ -13,6 +13,8 @@ In this part, we will create a Network to link movies if they have actors in com
 
 The network that we create is given below. It contains a lot of movies linked together and some outliers ("small" movies with unexperienced actors who only played in 1 movie).
 
+![network](https://user-images.githubusercontent.com/19948466/33676245-81088c8e-dab5-11e7-8f54-b7ea06697258.jpeg)
+
 It has 4800 nodes and 253 502 edges.
 
 What characterize a high degree movie ? 
