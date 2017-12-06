@@ -36,7 +36,14 @@ This picture just help find the genre which correspond to you and also to change
 ### Word Cloud
 
 We know that the picture above don't give you much advises about the movie genre, only a grade can not change your mind or help you finding the best movie genre.
+
 So in order to advise you the best way, for each genre we will provide a word cloud to give even more informations. 
 We used the description of each movie to generate a word cloud which represent the most common word for all synopsis of each class of movie.
-Just below, we generate several word clouds corresonding respectively to 'Romance, 'Science Fiction', and 'Western'
+Just below, we generate several word clouds corresonding respectively to 'Romance, 'Science Fiction', and 'Western'.
+
+![wordcloud1](https://user-images.githubusercontent.com/26303508/33665263-a172d282-da96-11e7-9b7c-22fe258792f1.png)
+
+
+
+
 
