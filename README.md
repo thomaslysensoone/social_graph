@@ -11,6 +11,8 @@ Description of the dataset et blabla
 
 In this part, we will create a Network to link movies if they have actors in common. Then, we will analyze the network and also run the Louvain Algorithm to see if we can isolate communities.
 
+The first part is about loading and formatting the data to our need for this project. I won't detail it here (cf. the notebook).
+
 The network that we create is given below. It contains a lot of movies linked together and some outliers ("small" movies with unexperienced actors who only played in 1 movie).
 
 ![network](https://user-images.githubusercontent.com/19948466/33676245-81088c8e-dab5-11e7-8f54-b7ea06697258.jpeg)
@@ -37,6 +39,13 @@ Here is an example with Tom Hanks, we get 10 recommandations :
  - "Philadelphia"
  - "Road To Perdition"
  - "Apollo 13"
+
+### Communities
+
+We have been able to isolate 11 communities in this Network for a modularity equal to 0.24 which means that the partition is correct.
+Basically, actors often are "specialized" in a genre and they also work with the same directors several times throughout their life. It explains why actors who shoot together once are more likely to shoot again together in the future.
+
+This is just a trend and not a rule that applies most of the time. That is why the modularity is not that high (<0.3).
 
 
 
