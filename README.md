@@ -7,8 +7,9 @@ Based on your favorite actor, the movie genre ou like or your favorite movie we 
 Here is some basic statistics about our dataset:
 To give an insight about it, we plot just below the average budget over years
 
+![test](https://user-images.githubusercontent.com/26303508/33716337-15ecfbc8-db56-11e7-9ddd-311d2a1460a0.png)
 
-
+We can definitely see how the movie industry become a huge business over years. The superproductions are now mainstream production movie. That is why we want to make you recommendations not based on how popular is a movie or how expensive is another, we want to base our recommendations on facts, on similarity or on the network.
 
 
 ## The Network
