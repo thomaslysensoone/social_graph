@@ -1,7 +1,9 @@
 # social graph and interactions
 
 ## Introduction
-Our goal is to recommend you some movies based on a movie dataset containing 4800 movies. We took that dataset from the website(https://www.kaggle.com/tmdb/tmdb-movie-metadata).
+Our goal is to recommend you some movies based on a movie dataset containing 4800 movies. 
+We took that dataset from the website(https://www.kaggle.com/tmdb/tmdb-movie-metadata).
+The notebook we used can be found here (https://github.com/thomaslysensoone/social_graph/blob/master/SGI_finalProject.ipynb)
 Based on your favorite actor, the movie genre ou like or your favorite movie we will give you some recommendations. We will first use a network of movies and then use the natural language processing to give you the best advises.
 
 Here is some basic statistics about our dataset:
